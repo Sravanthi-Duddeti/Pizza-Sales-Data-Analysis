@@ -61,7 +61,7 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
 • Incorporate slicers and filters to allow users to dynamically explore the data and uncover insights based on their specific criteria and interests.
 
 **SOFTWARE USED**
-• MySQL Workbench 8.0
+• Ms SQL server
 
 • Microsoft Power BI 2024
 
