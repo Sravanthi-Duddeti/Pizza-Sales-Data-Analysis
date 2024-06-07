@@ -4,9 +4,11 @@
 
 
 PROBLEM STATEMENT
+
 A popular pizza store wants to optimize its sales and marketing strategies to increase revenue and customer satisfaction.To achieve this, the company needs to analyze its sales data to uncover insights into customer preferences, sales trends, and product performance.The goal is to uncover insights from the data and develop actionable recommendations to drive business growth.
 
 About DataSet
+
 This pizza sales dataset make up 12 relevant features:
 
 order_id: Unique identifier for each order placed by a table
@@ -34,15 +36,20 @@ pizza_ingredients: ingredients used in the pizza as shown in the menu (they all 
 pizza_name: Name of the pizza as shown in the menu
 
 OBJECTIVES
+
+
 Conduct a comprehensive sales performance analysis for a pizza store using SQL queries and visualize the findings using Power BI. The objective is to gain insights into sales trends, revenue distribution, and top performing products to inform strategic decision-making and optimize sales strategies.
 
 DELIVERABLES
+
 1. SQL Queries:
+
 • Extract and aggregate sales data from the pizza sales dataset to calculate key metrics such as total sales revenue, average order value, Total Orders.
 
 • Analyze sales trends over time (hourly, daily, monthly) to identify peak sales periods and seasonal variations.
 
 • Calculate sales performance metrics for individual products, including best-selling pizzas, popular pizza sizes, and revenue contribution by product category.
+
 
 2. Power BI visualizations:
 • Develop interactive dashboards and visualizations to present the analysis findings in a clear and visually appealing manner according to business requirement.
