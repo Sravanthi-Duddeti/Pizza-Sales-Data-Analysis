@@ -73,7 +73,7 @@ Snapshots of Dashboard
 ![image](https://github.com/Sravanthi-Duddeti/Pizza-Sales-Data-Analysis/assets/128029018/e6247d0b-4cc0-4941-bf58-f8f2c4461b25)
 
  INSIGHTS
-• FRIDAYS, THURSDAYS and SATURDAYS have the highest sales volume, comprising about 47% of total weekly sales, while Sundays and Tuesdays are typically slower days with lower sales.
+• FRIDAYS,SATURDAYS have the highest sales volume, comprising about 47% of total weekly sales, while Sundays and Tuesdays are typically slower days with lower sales.
 
 • Peak sales occur during the SECOND QUARTER of the year and JULY being the month with highest sale.
 
@@ -82,4 +82,5 @@ Snapshots of Dashboard
 • Percentage share of total sales by all four Pizza Categories are almost same with CLASSIC category being the highest followed by SUPREME category.
 
 • Among pizzas, THAI CHICKEN PIZZA contributes to maximum sales while CLASSIC DELUXE PIZZA are the most ordered one among the customers and BRIE CARRE PIZZA holds the position of least favoured pizza.
+CheckOut The LiveDashBoard: https://shorturl.at/ui4Ab
 
