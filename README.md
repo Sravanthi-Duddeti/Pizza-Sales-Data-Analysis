@@ -3,11 +3,11 @@
 ![image](https://github.com/Sravanthi-Duddeti/Pizza-Sales-Data-Analysis/assets/128029018/3b86c737-1724-4630-b7d2-790c18bc975b)
 
 
-PROBLEM STATEMENT
+**PROBLEM STATEMENT**
 
 A popular pizza store wants to optimize its sales and marketing strategies to increase revenue and customer satisfaction.To achieve this, the company needs to analyze its sales data to uncover insights into customer preferences, sales trends, and product performance.The goal is to uncover insights from the data and develop actionable recommendations to drive business growth.
 
-About DataSet
+**About DataSet**
 
 This pizza sales dataset make up 12 relevant features:
 
@@ -35,14 +35,14 @@ pizza_ingredients: ingredients used in the pizza as shown in the menu (they all 
 
 pizza_name: Name of the pizza as shown in the menu
 
-OBJECTIVES
+**OBJECTIVES**
 
 
 Conduct a comprehensive sales performance analysis for a pizza store using SQL queries and visualize the findings using Power BI. The objective is to gain insights into sales trends, revenue distribution, and top performing products to inform strategic decision-making and optimize sales strategies.
 
-DELIVERABLES
+**DELIVERABLES**
 
-1. SQL Queries:
+**1. SQL Queries:**
 
 • Extract and aggregate sales data from the pizza sales dataset to calculate key metrics such as total sales revenue, average order value, Total Orders.
 
@@ -51,7 +51,7 @@ DELIVERABLES
 • Calculate sales performance metrics for individual products, including best-selling pizzas, popular pizza sizes, and revenue contribution by product category.
 
 
-2. Power BI visualizations:
+**2. Power BI visualizations:**
 • Develop interactive dashboards and visualizations to present the analysis findings in a clear and visually appealing manner according to business requirement.
 
 • Create line charts to visualize sales trends over time, with filters for different time periods.
@@ -60,19 +60,20 @@ DELIVERABLES
 
 • Incorporate slicers and filters to allow users to dynamically explore the data and uncover insights based on their specific criteria and interests.
 
-SOFTWARE USED
+**SOFTWARE USED**
 • MySQL Workbench 8.0
 
 • Microsoft Power BI 2024
 
-Snapshots of Dashboard
+**Snapshots of Dashboard**
 
 
 ![image](https://github.com/Sravanthi-Duddeti/Pizza-Sales-Data-Analysis/assets/128029018/6b1f1201-7f93-42ee-a803-0910411b4ebd)
 
 ![image](https://github.com/Sravanthi-Duddeti/Pizza-Sales-Data-Analysis/assets/128029018/e6247d0b-4cc0-4941-bf58-f8f2c4461b25)
 
- INSIGHTS
+**INSIGHTS**
+
 • FRIDAYS,SATURDAYS have the highest sales volume, comprising about 47% of total weekly sales, while Sundays and Tuesdays are typically slower days with lower sales.
 
 • Peak sales occur during the SECOND QUARTER of the year and JULY being the month with highest sale.
